@@ -8,6 +8,6 @@ This project is aim to learn storm
 
 ## Userful resource
 
-[storm]: https://github.com/nathanmarz/storm
-[storm-deplooy]: https://github.com/nathanmarz/storm-deploy
+* [storm](https://github.com/nathanmarz/storm)
+* [storm-deplooy](https://github.com/nathanmarz/storm-deploy)
 
